@@ -14,4 +14,4 @@
 
 # Editores con mas ventas
 
-![alt text](image-4.png)
+![alt text](image-7.png)
